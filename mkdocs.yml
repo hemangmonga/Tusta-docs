@@ -1,0 +1,4 @@
+site_name: Tusta Docs
+site_url: https://docs.tusta.co/
+theme:
+  name: material
